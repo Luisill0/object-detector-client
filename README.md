@@ -2,7 +2,7 @@
 
 Check out the demo [here](https://projects.object-detector.luiz.lat/)!
 
-This project is a client for the API I made to detect objects in images. You can look at the API code [here]((https://github.com/Luisill0/object-detector-api)) 😊
+This project is a client for the API I made to detect objects in images. You can look at the API code [here](https://github.com/Luisill0/object-detector-api) 😊
 
 ## How to use
 
